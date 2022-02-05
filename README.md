@@ -5,6 +5,8 @@ Prova realiazda no cruso de Mecatrônica, na matéria de lógica de programaçã
 
 Proposta inicial era realizar o programa utilizando vetores e matrizes. Utilizei outra solução.
 
+Obs.: o programa foi criado em C, utilizando o compilador e editor CodeBlock. Esse código é melhor aproveitado ao ser compilado pelo programa.
+
 Enunciado da prova:
 
 Critérios avaliativos: coerência, identação, comentar todas as linhas, uso de estruturas vistas em aula.
